@@ -1,4 +1,5 @@
 slight change
 another change
 a third change
-more on the third change
+more on the third change\
+a fourth which is part of the third
